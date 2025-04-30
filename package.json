@@ -1,0 +1,23 @@
+{
+  "name": "co-disability-history",
+  "version": "0.1.0",
+  "description": "[PRESENTATION] Colorado's Disability Rights History",
+  "homepage": "https://github.com/ThirstyHead/co-disability-history#readme",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/co-disability-history/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/co-disability-history.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
+}
